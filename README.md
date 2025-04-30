@@ -1,6 +1,7 @@
 # :coin: Full Stack Bank :dollar:
 
 ![Preview](./screenshots/login.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fprajeet14%2Finsecure-fullstack-bank.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fprajeet14%2Finsecure-fullstack-bank?ref=badge_shield)
 
 ## :page_with_curl: About/Sobre
 
@@ -299,3 +300,7 @@ npm run test
 ![Dashboard - mobile](./screenshots/dashboard-mobile.png)
 
 ![Dashboard](./screenshots//dashboard.png)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fprajeet14%2Finsecure-fullstack-bank.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fprajeet14%2Finsecure-fullstack-bank?ref=badge_large)
